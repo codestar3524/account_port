@@ -8,11 +8,11 @@ const Header = () => {
       <div className="container mx-auto">
         <div className="flex flex-col lg:flex-row justify-between items-center gap-y-6 py-8">
           {/* logo */}
-          <h1 className="text-3xl">
+          {/* <h1 className="text-3xl">
             <Link href="/">
             Kostiantyn Lytvynov
             </Link>
-          </h1>
+          </h1> */}
 
           {/* <Socials /> */}
         </div>
